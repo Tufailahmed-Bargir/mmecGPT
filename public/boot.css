@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+    margin-bottom: 10px;
+    /* background-color: 
+    ; */
+    /* border: 2px solid red; */
+}
+.search-logo{
+position: absolute;
+right: 20px;
+ bottom: -10px;
+    font-size:40px;
+}
+#btn{
+    border: none;
+    background-color: transparent;
+}
